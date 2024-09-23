@@ -1,6 +1,6 @@
 
 
-# Web3 StarTrek application form
+# 星航计划加入申请表
 
 > The following is sample content, please modify it according to your situation.
 > 以下是示例内容，请根据自己的情况修改。
@@ -11,10 +11,7 @@
 * Telegram ID: June
 * Starcoin 账号地址: 0x6a04733913dfa39c26287a8e1d66cf65
 
-
-Long time internet and cloud developer, started to blockchain and Web3 area in 2017.
-Program languages: Java, Go, Rust, Move. 
-Interested in blockchain system development and smart contract programming.
+资深前端工程师，7 年工作经验，对区块链非常感兴趣，已经学习了 Solidity、Hardhat、Etherjs、Web3js 等
 
 Participated in open source projects:
 
